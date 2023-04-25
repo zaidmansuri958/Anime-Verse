@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278061800077",
+    "project_id": "anime-verse-6c92f",
+    "storage_bucket": "anime-verse-6c92f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278061800077:android:4a5bf44625eba167cce0c4",
+        "android_client_info": {
+          "package_name": "com.zaidmansuri.animeverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278061800077-sc4tmjk5hv6ap1t0ocavoti5b6qqaph5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqodfxJNjRxMudJOhdrq7xXX6RJLvVz5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278061800077-sc4tmjk5hv6ap1t0ocavoti5b6qqaph5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
