@@ -8,7 +8,7 @@ Anime Verse: Elevate Your Aesthetic! Epic battles, adorable characters, and more
 
 ## Screenshots
 
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/anime-verse-6c92f.appspot.com/o/ss%2F12.png?alt=media&token=e6882405-8dab-425a-94fb-8e096099406e,https://firebasestorage.googleapis.com/v0/b/anime-verse-6c92f.appspot.com/o/ss%2F13.png?alt=media&token=b30dc62a-f110-447f-accc-75c8ed52f49b)
+<img width=1000 src="https://firebasestorage.googleapis.com/v0/b/anime-verse-6c92f.appspot.com/o/ss%2F12.png?alt=media&token=e6882405-8dab-425a-94fb-8e096099406e,https://firebasestorage.googleapis.com/v0/b/anime-verse-6c92f.appspot.com/o/ss%2F13.png?alt=media&token=b30dc62a-f110-447f-accc-75c8ed52f49b">
 
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/anime-verse-6c92f.appspot.com/o/ss%2F13.png?alt=media&token=b30dc62a-f110-447f-accc-75c8ed52f49b)
 
